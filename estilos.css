@@ -1,0 +1,35 @@
+section{
+    padding-top: 200px;
+    
+}
+.botonera{
+    margin: 0 auto;
+    padding: 10px;
+    border: solid 1px black;
+    width: 500px;
+    height: 150px;
+    background-color: #303030;
+    border-radius: 20px;
+}
+.botonera h1{
+    color: azure;
+}
+
+
+.botonera button{
+    margin: 10px;
+    border-radius: 10px;
+    display: flex;
+}
+
+#btn1:hover {
+    background-color:#f80e0e;
+}
+
+#btn2:hover {
+    background-color:#1962ff ;
+}
+
+#btn3:hover {
+    background-color:#bd05ce ;
+}
