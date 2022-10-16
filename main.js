@@ -12,7 +12,8 @@ btn2.addEventListener("click", () => {
    PlaySound2();
 });
 
-
+// reemplaza esta parte con los audios que quiras
+// var audio = new Audio('Aca pone el audio.mp3 o la terminacion que tenga');
 PlaySound1 = function () {
     var audio = new Audio('perro.mp3');
     audio.loop = false;
